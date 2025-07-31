@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on furthering my AI and data science knowledge
-- 🌱 I’m currently learning Python and anything else that helps make the above easier
+- 🔭 I’m exploring relationships between unexpected variables, explaining consumer behavior, and building models
+- 🌱 I’m currently pushing my knowledge of Python and learning anything else that helps make the above easier
 - 💬 Ask me about anything
 - 📫 How to reach me: eric.lee.torres@gmail.com
 - 😄 Pronouns: he / him
