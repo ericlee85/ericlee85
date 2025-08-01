@@ -13,7 +13,7 @@ I want to use GitHub to become a better AI / data science / machine learning pro
 - Exploring GitHub
 - Learning Markdown and making my first commits
 
-##📖🎵
+## 📖🎵
 - Currently reading: Xeelee sequence
 - Currently album: Even in Arcadia: Sleep Token
 
