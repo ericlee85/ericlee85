@@ -19,4 +19,5 @@ I want to use GitHub to become a better AI / data science / machine learning pro
 
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/eric-torres-cfa/)`
+eric.lee.torres@gmail.com
 
