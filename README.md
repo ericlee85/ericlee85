@@ -10,8 +10,13 @@
 I want to use GitHub to become a better AI / data science / machine learning professional. 
 
 ## 🌱 Current Focus
-- Exploring GitHub Discussions
+- Exploring GitHub
 - Learning Markdown and making my first commits
+
+##📖🎵
+- Currently reading: Xeelee sequence
+- Currently album: Even in Arcadia: Sleep Token
 
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/eric-torres-cfa/)`
+
