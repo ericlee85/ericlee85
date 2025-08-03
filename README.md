@@ -7,15 +7,17 @@
 - 😄 Pronouns: he / him
 
 ## 👋 About Me
-I want to use GitHub to become a better AI / data science / machine learning professional. 
+I want to use GitHub to become a better AI / data science / machine learning professional / leader. 
 
 ## 🌱 Current Focus
 - Exploring GitHub
+- Consolidating my codebase and projects in GitHub
 - Learning Markdown and making my first commits
 
-## 📖🎵
+## 📖🎵🎮
 - Currently reading: Xeelee sequence
 - Currently album: Even in Arcadia: Sleep Token
+- Currently playing: FF XIV, Lost Ark
 
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/eric-torres-cfa/)`
